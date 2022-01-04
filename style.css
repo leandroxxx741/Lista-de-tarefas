@@ -29,6 +29,7 @@ button:active {
   transform: translateY(4px);
 }
 
+
 input[type="text"] {
   padding: 5px;
   border-radius: 5px;
