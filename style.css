@@ -23,7 +23,7 @@ button {
 
 button:hover {background-color:rgb(44, 26, 204)};
 
-button:active {
+button:disabled {
   background-color:rgb(33, 148, 201);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
